@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+
+.content {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#dog-img {
+  height: 400px;
+}
